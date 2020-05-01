@@ -1,8 +1,0 @@
-/* タブレット向けレイアウト */
-@media (max-width:1000px) {
-  .lesson {
-    width:50%;
-    margin-bottom:50px;
-  }
-  
-}
